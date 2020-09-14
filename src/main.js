@@ -2,7 +2,7 @@
  * @Author: suwanqing
  * @Date: 2020-09-09 11:26:09
  * @LastEditors: suwanqing
- * @LastEditTime: 2020-09-09 16:43:17
+ * @LastEditTime: 2020-09-14 18:14:38
  * @Description: file content
  */
 import Vue from 'vue'
@@ -11,8 +11,8 @@ import router from './router'
 import store from './store'
 import ViewUI from 'view-design'
 import 'view-design/dist/styles/iview.css'
-import '@/styles/index.scss'
-import '@/styles/App.scss'
+// import '@/styles/index.scss'
+// import '@/styles/App.scss'
 
 Vue.config.productionTip = false
 
